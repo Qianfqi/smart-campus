@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sop-auth" />
+        <module name="sop-test" />
+        <module name="sop-website-server" />
+        <module name="sop-bridge-eureka" />
+        <module name="sop-gateway-common" />
+        <module name="sop-bridge-nacos" />
+        <module name="sop-admin-server" />
+        <module name="sop-service-common" />
+        <module name="sdk-java" />
+        <module name="sop-story" />
+        <module name="sop-springmvc" />
+        <module name="doc" />
+        <module name="sop-gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="doc" target="1.5" />
+      <module name="sdk-java" target="1.8" />
+      <module name="sop-admin" target="1.8" />
+      <module name="sop-admin-server" target="1.8" />
+      <module name="sop-auth" target="1.8" />
+      <module name="sop-bridge-eureka" target="1.8" />
+      <module name="sop-bridge-nacos" target="1.8" />
+      <module name="sop-common" target="1.8" />
+      <module name="sop-example" target="1.8" />
+      <module name="sop-gateway" target="1.8" />
+      <module name="sop-gateway-common" target="1.8" />
+      <module name="sop-parent" target="1.8" />
+      <module name="sop-sdk" target="1.8" />
+      <module name="sop-service-common" target="1.5" />
+      <module name="sop-springmvc" target="1.8" />
+      <module name="sop-story" target="1.8" />
+      <module name="sop-test" target="1.8" />
+      <module name="sop-website" target="1.8" />
+      <module name="sop-website-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
